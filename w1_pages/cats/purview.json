@@ -1,0 +1,28 @@
+{
+  "commits": [
+    {
+      "sha": "a3b8cce68bec392a7c54146aa2b198f4a9ca4294",
+      "name": "final_version"
+    },
+    {
+      "sha": "8a054fb94bad5736c766d7b438916230bf8d21a3",
+      "name": "refined_distribution"
+    },
+    {
+      "sha": "85922d85357f972494097ec515121014099421d0",
+      "name": "weighted_selection"
+    },
+     {
+      "sha": "73ebb1d1bcbd1701415bc094415ee5a53f79bdc9",
+      "name": "Part 3: Random Collection"
+    },
+    {
+      "sha": "b5c5f9d4e0b6820345dc93a4f47bb9dd8cf3c4c1",
+      "name": "Part 2: Parameterised faces"
+    },
+    {
+      "sha": "89452adefb838e7c2c7624975823165852dc6c1f",
+      "name": "sketch"
+    }
+  ]
+}
